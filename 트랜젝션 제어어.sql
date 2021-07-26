@@ -15,6 +15,7 @@ BEGIN;
 
 INSERT INTO 회원테이블 VALUES(1001, '홍길동', '2021-07-23',1);
 
+
 COMMIT;
 
 DELETE FROM 회원테이블;
